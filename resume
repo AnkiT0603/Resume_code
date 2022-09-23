@@ -1,0 +1,91 @@
+\documentclass[a4paper,10pt]{article}
+%-----------------------------------------------------------
+\usepackage[top=0.75in, bottom=0.75in, left=0.55in, right=0.85in]{geometry}
+\usepackage{graphicx}
+\usepackage{url}
+\usepackage{palatino}
+\usepackage{tabularx}
+\fontfamily{SansSerif}
+\selectfont
+
+\usepackage[T1]{fontenc}
+\usepackage
+%[ansinew]
+[utf8]
+{inputenc}
+
+\usepackage{color}
+\definecolor{mygrey}{gray}{0.75}
+\textheight=9.75in
+\raggedbottom
+
+\setlength{\tabcolsep}{0in}
+\newcommand{\isep}{-2 pt}
+\newcommand{\lsep}{-0.5cm}
+\newcommand{\psep}{-0.6cm}
+\renewcommand{\labelitemii}{$\circ$}
+
+\pagestyle{empty}
+%-----------------------------------------------------------
+%Custom commands
+\newcommand{\resitem}[1]{\item #1 \vspace{-2pt}}
+\newcommand{\resheading}[1]{{\small \colorbox{mygrey}{\begin{minipage}{0.975\textwidth}{\textbf{#1 \vphantom{p\^{E}}}}\end{minipage}}}}
+\newcommand{\ressubheading}[3]{
+\begin{tabular*}{6.62in}{l @{\extracolsep{\fill}} r}
+	\textsc{{\textbf{#1}}} & \textsc{\textit{[#2]}} \\
+\end{tabular*}\vspace{-8pt}}
+%-----------------------------------------------------------
+
+\begin{document}
+\hspace{0.5cm}\\[-0.2cm]
+
+\textbf{Ankit Kumar Singh} \\
+\indent Email-id : \textbf{\url{rickyrajput2000@gmail.com}} \\
+\indent Mobile No.: \textbf{7979723988}, \ \\
+\indent \textbf{\url{https://github.com/AnkiT0603}}\\
+
+\resheading{\textbf{ACADEMIC DETAILS} }\\[\lsep]
+\\
+%\begin{table}[ht!]
+%\begin{center}
+\indent \rule{6.8in}{0.4pt}\\
+\indent \begin{tabular}{ l @{\hskip 0.15in} l @{\hskip 0.15in} l @{\hskip 0.15in} l @{\hskip 0.15in} }
+\noindent \textbf{Year} & \textbf{Degree/Exam} & \textbf{Institute} & \textbf{GPA/Marks(\%)}\\
+Aug, 2020 - Present & B.TECH in Computer Science & Graphic Era University Dehradun & 7.42 \% \\
+2019 & 12^{th},\  C.B.S.E & St. Dominic Savio's high school & 74.4 \% \\
+2007 & 10^{th},\  C.B.S.E & Chhapra Central School & 66.4 \%\\
+
+\end{tabular}
+\indent \rule{6.8in}{0.4pt}
+%\end{center}
+%\end{table}
+\\
+
+\resheading{\textbf{PROJECTS} }\\[\lsep]
+\begin{itemize}
+\setlength\itemsep{0.5em}
+\item \textbf{Examine social
+media data using sentiment analysis for crime detection} (Dec, 2021 - Feb, 2022) :The goal is to analyze the sentiment (on social media) and we are
+going to analyze detecting malicious URL in python using sentiment
+analysis and it is giving 82% accuracy.
+
+\item \textbf{Web Based Budget Tracker} (May, 2022 - July, 2022) : Developed a web based budget tracker to track all the expenses.
+
+
+\resheading{\textbf{TECHNICAL SKILLS} }\\[\lsep]
+\begin{itemize}
+\setlength\itemsep{0em}
+\item \noindent \textbf{Languages} \textbf{Python} (proficient), \textbf{Javascript} (proficient), \textbf{C} (proficient), \textbf{C++} (proficient), \textbf{HTML}, \textbf{SQL}, \textbf{Java}  • .\\
+ \item \noindent\textbf{Tools and Frameworks} \LaTeX\\
+\item \noindent \textbf{Machine Learning Tools} Tensorflow, Keras, scikit-learn.
+\end{itemize}
+
+\resheading{\textbf{SCHOLASTIC ACHIEVEMENTS} }\\[\lsep]
+\begin{itemize}
+\setlength\itemsep{0em}
+\item \noindent \textbf• Microsoft Certified(Azure AI Fundamental) - Passed the Exam AI-900: Microsoft Azure AI Fundamentals
+and earned badge on jan 2022 with no expiration date
+\end{itemize}
+
+\end{itemize}
+\end{document}
