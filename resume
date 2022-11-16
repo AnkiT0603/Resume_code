@@ -37,55 +37,78 @@
 %-----------------------------------------------------------
 
 \begin{document}
-\hspace{0.5cm}\\[-0.2cm]
-
 \textbf{Ankit Kumar Singh} \\
-\indent Email-id : \textbf{\url{rickyrajput2000@gmail.com}} \\
-\indent Mobile No.: \textbf{7979723988}, \ \\
-\indent \textbf{\url{https://github.com/AnkiT0603}}\\
+\indent Email-id : \textbf{rickyrajput2000@gmail.com} \\
+\indent Mobile No.: \textbf{ 7979723988} \\
+\indent LinkedIn: \url{ https://www.linkedin.com/in/ankit-kumar-singh-b35712247 } \\
+\indent GitHub: \url{ https://github.com/AnkiT0603} \\
+
 
 \resheading{\textbf{ACADEMIC DETAILS} }\\[\lsep]
-\\
+\\ \\
 %\begin{table}[ht!]
 %\begin{center}
-\indent \rule{6.8in}{0.4pt}\\
-\indent \begin{tabular}{ l @{\hskip 0.15in} l @{\hskip 0.15in} l @{\hskip 0.15in} l @{\hskip 0.15in} }
-\noindent \textbf{Year} & \textbf{Degree/Exam} & \textbf{Institute} & \textbf{GPA/Marks(\%)}\\
-Aug, 2020 - Present & B.TECH in Computer Science & Graphic Era University Dehradun & 7.42 \% \\
-2019 & 12^{th},\  C.B.S.E & St. Dominic Savio's high school & 74.4 \% \\
-2007 & 10^{th},\  C.B.S.E & Chhapra Central School & 66.4 \%\\
-
+\indent \begin{tabular}{ l @{\hskip 0.15in} l @{\hskip 0.15in} l @{\hskip 0.15in} l @{\hskip 0.15in} l }
+\hline
+\textbf{Year} & \textbf{Degree/Exam} & \textbf{Institute} &  \textbf{GPA/\%} \\
+\hline
+Sep 2020 - Present\,\, & Btech in\textit{  Artificial Intelligence and Data Science } & Graphic Era University , Dehradun & 7.42 \\
+2019 & \textit{ CBSE } & St. Dominic Savio’s high school & 74.4\\
+2017 &\textit{ CBSE } & Chhapra Central School  & 66.4\\
+\hline
 \end{tabular}
-\indent \rule{6.8in}{0.4pt}
 %\end{center}
 %\end{table}
-\\
-
-\resheading{\textbf{PROJECTS} }\\[\lsep]
-\begin{itemize}
-\setlength\itemsep{0.5em}
-\item \textbf{Examine social
-media data using sentiment analysis for crime detection} (Dec, 2021 - Feb, 2022) :The goal is to analyze the sentiment (on social media) and we are
-going to analyze detecting malicious URL in python using sentiment
-analysis and it is giving 82% accuracy.
-
-\item \textbf{Web Based Budget Tracker} (May, 2022 - July, 2022) : Developed a web based budget tracker to track all the expenses.
-
+\\ \\
 
 \resheading{\textbf{TECHNICAL SKILLS} }\\[\lsep]
 \begin{itemize}
 \setlength\itemsep{0em}
-\item \noindent \textbf{Languages} \textbf{Python} (proficient), \textbf{Javascript} (proficient), \textbf{C} (proficient), \textbf{C++} (proficient), \textbf{HTML}, \textbf{SQL}, \textbf{Java}  • .\\
- \item \noindent\textbf{Tools and Frameworks} \LaTeX\\
+\item \noindent \textbf{Languages} \textbf{Python} (proficient), \textbf{Javascript} (proficient), \textbf{C} (proficient), \textbf{C++} (proficient), \textbf{HTML}, \textbf{SQL}, \textbf{Java}
+ \item \noindent\textbf{Tools and Frameworks} \ Latex
 \item \noindent \textbf{Machine Learning Tools} Tensorflow, Keras, scikit-learn.
 \end{itemize}
 
-\resheading{\textbf{SCHOLASTIC ACHIEVEMENTS} }\\[\lsep]
+
+\resheading{\textbf{EXPERIENCE} }\\[\lsep]
 \begin{itemize}
-\setlength\itemsep{0em}
-\item \noindent \textbf• Microsoft Certified(Azure AI Fundamental) - Passed the Exam AI-900: Microsoft Azure AI Fundamentals
-and earned badge on jan 2022 with no expiration date
+\item \textbf{Google DevFest 2022} - Oct 2022 \\
+ One of the attendees of Google DevFest 2022 and got the chance to learn on how to build together and innovate on Google's developer tools.
 \end{itemize}
 
+
+\resheading{\textbf{PROJECTS} }\\[\lsep]
+\begin{itemize}
+\item \textbf{Face Recognition Attendance system using deep learning approach
+} (Nov 2022 - Present)
+	\begin{itemize}\itemsep \isep
+	\item Objective : Working on a face recognition technique to build a Attendance System.
 \end{itemize}
+\item \textbf{Web Based Budget Tracker} (May, 2022 - July, 2022) : 
+\begin{itemize}
+\item \noindent Objective : Developed a web based budget tracker to track all the
+expenses of a User.
+\end{itemize}	
+\item \textbf{Examine social media data using sentiment analysis for crime detection} (Dec, 2021 - Feb, 2022): 
+\begin{itemize}\itemsep \isep
+\item Objective :The goal is to analyze the sentiment (on social media) and I have developed a model to analyze and detect malicious URL in python
+using sentiment analysis.
+%	\item Performance analysis will help in comparing different MAC protocols based on different network sce-narios.
+	\end{itemize}	
+\end{itemize}
+
+
+\resheading{\textbf{CERTIFICATIONS} }\\[\lsep]
+\begin{itemize}
+\item \noindent AWS Certified Cloud Practitioner -  June 2022
+\item \noindent Introduction to Data Analytics - May 2022
+\item \noindent Python for Data Science , AI & Development -  June 2022
+\item \noindent Microsoft Certified Azure AI Fundamentals - Dec 2021
+\end{itemize}
+
+\resheading{\textbf{STRENGTHS} }\\ [\lsep]
+\begin{itemize}
+\item \noindent Teamwork ,Problem Solving, Communication , Positive Attitude , Self Management , Leadership 
+\end{itemize}
+
 \end{document}
